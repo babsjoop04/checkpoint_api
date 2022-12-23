@@ -1,0 +1,15 @@
+#root {
+  background-color: #003e46;
+}
+
+#userList {
+  background-color: #f8f7f3;
+  border: 15px solid #8dd1cf;
+}
+/* h1 {
+  color: #fca311;
+} */
+
+thead {
+  background-color: #54c9c5;
+}
