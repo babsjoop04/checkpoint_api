@@ -6,7 +6,7 @@ const User = ({ id, name, username, company, address, email, phone, website }) =
             <td>{name}</td>
             <td>{username}</td>
             <td>
-                <p>Street :{address.street}</p>
+                <p>Street : {address.street}</p>
                 <p>City : {address.city}</p>
                 <p>Suite : {address.suite}</p>
 
